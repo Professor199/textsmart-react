@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textsmart-react/static/css/main.19f853db.css",
+    "main.js": "/textsmart-react/static/js/main.55020518.js",
+    "static/js/787.df1d6591.chunk.js": "/textsmart-react/static/js/787.df1d6591.chunk.js",
+    "index.html": "/textsmart-react/index.html",
+    "main.19f853db.css.map": "/textsmart-react/static/css/main.19f853db.css.map",
+    "main.55020518.js.map": "/textsmart-react/static/js/main.55020518.js.map",
+    "787.df1d6591.chunk.js.map": "/textsmart-react/static/js/787.df1d6591.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19f853db.css",
+    "static/js/main.55020518.js"
+  ]
+}
