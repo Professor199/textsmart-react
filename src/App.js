@@ -49,7 +49,7 @@ function App() {
 
     }
   }  
-
+   console.log("App.js file mounted")
   return (
    <>
   {/* //  <Router> */}
